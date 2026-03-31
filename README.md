@@ -1,1 +1,1 @@
-AInotesGenerator Website which make automatic notes through AI 
+AInotesGenerator Website which make automatic notes Generator through AI 
